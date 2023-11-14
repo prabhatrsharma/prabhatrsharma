@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<iframe src="https://giphy.com/embed/Y805gYQbkkkMT2bFCq" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nfl-sports-football-sport-Y805gYQbkkkMT2bFCq">via GIPHY</a></p>
+<img src="https://giphy.com/embed/Y805gYQbkkkMT2bFCq" alt="Welcome!" width="300"/>
 
 </div>
 
