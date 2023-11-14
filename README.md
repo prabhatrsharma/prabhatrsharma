@@ -4,7 +4,8 @@
 
 <div align="center" width="50">
 
-<img src="https://giphy.com/embed/Y805gYQbkkkMT2bFCq" alt="Welcome!" width="300"/>
+![Welcome GIF]([URL_OF_YOUR_GIF](https://giphy.com/gifs/nfl-sports-football-sport-Y805gYQbkkkMT2bFCq))
+
 
 </div>
 
