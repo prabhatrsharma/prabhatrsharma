@@ -2,17 +2,16 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/prabhatrsharma/prabhatrsharma/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
 
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://giphy.com/embed/XD9o33QG9BoMis7iM4" width="480" height="270" alt="Welcome!"/>
-
+<img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="480" height="270" alt="Welcome!"/>
 
 </div>
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+You have finally discovered my GitHub profile. <br>
+Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/prabhatrsharma/prabhatrsharma/issues/new"><b>here</b></a><br>
 or <a href="mailto:sprabhat5454@gmail.com"><b>email</b></a> me.
 
